@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var app = require('./app').init(4000);
 
 var locals = {
