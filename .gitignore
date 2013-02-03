@@ -1,9 +1,7 @@
-# Project folders #
-###################
-node_modules/
+# Project folders 
+node_modules/ # remove this line if you want to check your modules into version control
 
-# OS generated files #
-######################
+# OS generated files 
 .DS_Store*
 ehthumbs.db
 Icon?

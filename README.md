@@ -1,16 +1,12 @@
-#  NodeJS Boostrap using Express / EJS / Twitter Bootstrap / Responsive CSS3
+#  Node.js Boostrap using Express 3.x / EJS / Twitter Bootstrap / Responsive CSS3
 
-## Prerequisites
+## Getting Started
 
-- npm install express
-- npm install ejs
-
-## Starting
-
-- git clone https://github.com/seafoox/node-express-twitter-bootstrap.git
+- git clone https://github.com/cacois/node-express-twitter-bootstrap.git
 - cd node-express-twitter-bootstrap
+- npm install express ejs ejs-locals
 - node server.js
 
 ## Changelog:
 
-### v.0.1 : February 28th, 2012
+### v.0.2 : October 15th, 2012
