@@ -1,0 +1,16 @@
+{
+    "name": "bootstrap-site",
+    "private": true,
+    "description": "My awesome Bootstrap site",
+    "version": "0.1.0",
+
+    "dependencies": {
+        "express": ">= 3",
+        "ejs": ">= 0.8.1",
+        "ejs-locals": ">=1.0"
+    },
+     "engines": {
+    "node": "0.8.19",
+    "npm":  "1.2.10"
+  }
+}
