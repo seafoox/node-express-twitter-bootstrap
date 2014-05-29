@@ -1,7 +1,16 @@
-#  Node.js Boostrap using Express 3.x / EJS / Twitter Bootstrap / Responsive CSS3
+#  Node.js template EEB
 ### Forked from https://github.com/seafoox/node-express-twitter-bootstrap
-## Getting Started
+## Description
+This awesome template includes
+- Express 4.x
+- EJS
+- Bower
+- Karma
+- Morgan
 
+- Bootstrap
+- Jquery
+## Getting Started
 - git clone https://github.com/Omrigan/node-all-inclusive-template.git
 - cd node-all-inclusive-template
 - npm start
